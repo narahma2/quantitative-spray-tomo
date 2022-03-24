@@ -1,8 +1,8 @@
 # quantitative-spray-4D
-![GitHub repo size](https://img.shields.io/github/repo-size/narahma2/quantitative-spray-tomo?logo=GitHub&label=total%20size) [![GitHub license](https://img.shields.io/github/license/narahma2/quantitative-spray-tomo.svg?label=license)](https://github.com/narahma2/quantitative-spray-tomo/blob/main/LICENSE) ![](https://img.shields.io/badge/3.6+-%3776AB.svg?url=https://www.python.org/downloads/release/python-360/&style=flat&logo=python&logoColor=white&labelColor=gray&label=python) [![](https://img.shields.io/badge/powered%20by-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/)
+![GitHub repo size](https://img.shields.io/github/repo-size/narahma2/quantitative-spray-tomo?logo=GitHub&label=total%20size) [![GitHub license](https://img.shields.io/github/license/narahma2/quantitative-spray-tomo.svg?label=license)](https://github.com/narahma2/quantitative-spray-tomo/blob/main/LICENSE) [![](https://img.shields.io/badge/3.6+-%3776AB.svg?&style=flat&logo=python&logoColor=white&labelColor=gray&label=python)](https://www.python.org/downloads/release/python-360/) [![](https://img.shields.io/badge/powered%20by-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/)
 
 
-**Author**: Naveed Rahman ![](https://img.shields.io/badge/profile-%234285F4.svg?&style=flat&logo=google%20scholar&logoColor=white&labelColor=gray&url=https://scholar.google.com/citations?user=2UyNwVQAAAAJ&hl=en)
+**Author**: Naveed Rahman [![](https://img.shields.io/badge/profile-%234285F4.svg?&style=flat&logo=google%20scholar&logoColor=white&labelColor=gray)](https://scholar.google.com/citations?user=2UyNwVQAAAAJ&hl=en)
 
 
 This repo contains the scripts required for tomographic reconstructions of the liquid spray datasets showcased in the manuscript entitled "Quantitative polychromatic 4D and monochromatic 2D X-ray tomography of liquid jet breakup dynamics."
