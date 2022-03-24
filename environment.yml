@@ -17,4 +17,4 @@ dependencies:
   - pip
   - watermark
   - pip:
-    - opencv-python
+    - opencv-python-headless
