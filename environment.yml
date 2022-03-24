@@ -4,17 +4,17 @@ channels:
   - astra-toolbox
 dependencies:
   - python
-  - ipywidgets=7.6.5
-  - astra-toolbox=2.0.0
-  - h5py=3.6.0
-  - numpy=1.17.0
-  - matplotlib=3.4.3
-  - scikit-image=0.18.1
-  - tomopy=1.7.1
-  - pyvista=0.33.3
-  - pyevtk=1.2.0
-  - scipy=1.1.0
+  - ipywidgets
+  - astra-toolbox
+  - h5py
+  - numpy
+  - matplotlib
+  - scikit-image
+  - tomopy
+  - pyvista
+  - pyevtk
+  - scipy
   - pip
   - watermark
   - pip:
-    - opencv-python==4.5.1
+    - opencv-python
