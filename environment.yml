@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - astra-toolbox
 dependencies:
-  - python=3.8
+  - python
   - ipywidgets=7.6.5
   - astra-toolbox=2.0.0
   - h5py=3.6.0
