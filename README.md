@@ -1,4 +1,4 @@
-# quantitative-spray-4D
+# Analytical workflow for X-ray tomography of liquid jet breakup dynamics
 ![GitHub repo size](https://img.shields.io/github/repo-size/narahma2/quantitative-spray-tomo?logo=GitHub&label=total%20size) [![GitHub license](https://img.shields.io/github/license/narahma2/quantitative-spray-tomo.svg?label=license)](https://github.com/narahma2/quantitative-spray-tomo/blob/main/LICENSE) [![](https://img.shields.io/badge/3.6+-%3776AB.svg?&style=flat&logo=python&logoColor=white&labelColor=gray&label=python)](https://www.python.org/downloads/release/python-360/) [![](https://img.shields.io/badge/powered%20by-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/)
 
 
@@ -39,7 +39,7 @@ The workflow for quantitative tomographic reconstructions of the PB datasets is 
 | [recon_utilities.py](./recon_utilities.py) | Python functions for PB volume reconstruction. | - | - |
 
 ## Requirements
-The Python packages used and version information for each are detailed within the Jupyter notebooks. The cone beam reconstructions implemented through the ASTRA toolbox (https://www.astra-toolbox.com) require the use of an NVIDIA GPU. Due to the use of an out-dated GPU (see [Hardware Information](#hardware-information)), the PB reconstruction scripts utilized v1.8.3 of the ASTRA toolbox, however the MB reconstruction script requires v >= 2.0.0 of the ASTRA toolbox to use the newer rotation offset functionality and was therefore run on the CPU instead in a separate Python environment. Depending on your hardware configuration, you may be able to process all notebooks/scripts without need of separate environments.
+The Python packages used and version information for each are detailed within the Jupyter notebooks. The cone beam reconstructions implemented through the ASTRA toolbox (https://www.astra-toolbox.com) require the use of an NVIDIA GPU. Due to the use of an out-dated GPU (see [Hardware Information](#hardware-information)), the PB reconstruction scripts utilized v1.8.3 of the *ASTRA* toolbox, however the MB reconstruction script requires v >= 2.0.0 of the *ASTRA* toolbox to use the newer rotation offset functionality and was therefore run on the CPU instead in a separate Python environment. Depending on your hardware configuration, you may be able to process all notebooks/scripts without need of separate environments.
 
 ## Hardware Information
 |     |     |
