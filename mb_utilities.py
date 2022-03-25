@@ -4,10 +4,10 @@ import h5py
 import numpy as np
 
 from matplotlib import pyplot as plt
-from skimage.metrics import (
-                             normalized_root_mse as nrmse,
-                             peak_signal_noise_ratio as psnr,
-                             structural_similarity as ssim
+from skimage.measure import (
+                             compare_nrmse as nrmse,
+                             compare_psnr as psnr,
+                             compare_ssim as ssim
                              )
 from tomopy import find_center
 
