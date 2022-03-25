@@ -59,7 +59,7 @@ The Python packages used and version information for each are detailed within th
 | CUDA compute capability | 2.1 |
 
 ## Related Works
-1. Rahman, N., Halls, B. R., Kastengren, A. L., Roy, S., Meyer, T. Quantitative polychromatic 4D and monochromatic 2D X-ray tomography of liquid jet breakup dynamics. *To be submitted*.
+1. Rahman, N., Halls, B. R., Kastengren, A. L., Roy, S., Meyer, T. R. Quantitative polychromatic 4D and monochromatic 2D X-ray tomography of liquid jet breakup dynamics. *To be submitted*.
 2. Rahman, N. X-ray radiography datasets for tomographic reconstruction of liquid jet breakup dynamics. *Purdue University Research Repository* (2022). doi: [10.4231/G20X-4Z27](https://doi.org/10.4231/G20X-4Z27).
 
 ## References
@@ -79,7 +79,5 @@ The Python packages used and version information for each are detailed within th
 14. Kennedy, J. & Eberhart, R. Particle swarm optimization. in *Proceedings of ICNN’95 - International Conference on Neural Networks* vol. 4 1942–1948 (IEEE, 1995). doi: [10.1109/ICNN.1995.488968](https://doi.org/10.1109/ICNN.1995.488968).
 15. James V. Miranda, L. PySwarms: a research toolkit for Particle Swarm Optimization in Python. *JOSS* 3, 433 (2018). doi: [10.21105/joss.00433](https://doi.org/10.21105/joss.00433).
 16. Abdel-Basset, M., Abdel-Fatah, L. & Sangaiah, A. K. Metaheuristic Algorithms: A Comprehensive Review. in *Computational Intelligence for Multimedia Big Data on the Cloud with Engineering Applications* 185–231 (Elsevier, 2018). doi: [10.1016/B978-0-12-813314-9.00010-4](https://doi.org/10.1016/B978-0-12-813314-9.00010-4).
-17. Jingyu Cui, Pratx, G., Bowen Meng & Levin, C. S. Distributed MLEM: An Iterative Tomographic Image Reconstruction Algorithm for Distributed Memory Architectures. *IEEE Trans. Med. Imaging* 32, 957–967 (2013). doi: [10.1109/TMI.2013.2252913](https://doi.org/10.1109/TMI.2013.2252913).
-18. Slomski, A. et al. 3D PET image reconstruction based on the maximum likelihood estimation method (MLEM) algorithm. *Bio-Algorithms and Med-Systems* 10, 1–7 (2014). doi: [10.1515/bams-2013-0106](https://doi.org/10.1515/bams-2013-0106).
-19. *ParaView*. Available at: http://www.paraview.org/.
-20. Schroeder, W., Martin, K. & Lorensen, B. *The Visualization Toolkit*. (Kitware, Inc, 2006).
+17. *ParaView*. Available at: http://www.paraview.org/.
+18. Schroeder, W., Martin, K. & Lorensen, B. *The Visualization Toolkit*. (Kitware, Inc, 2006).
