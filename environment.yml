@@ -9,7 +9,7 @@ dependencies:
   - h5py
   - numpy
   - matplotlib
-  - scikit-image=0.15.0
+  - scikit-image=0.17.2
   - tomopy
   - pyvista
   - pyevtk
