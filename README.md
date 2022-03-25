@@ -81,3 +81,4 @@ The Python packages used and version information for each are detailed within th
 16. Abdel-Basset, M., Abdel-Fatah, L. & Sangaiah, A. K. Metaheuristic Algorithms: A Comprehensive Review. in *Computational Intelligence for Multimedia Big Data on the Cloud with Engineering Applications* 185–231 (Elsevier, 2018). doi: [10.1016/B978-0-12-813314-9.00010-4](https://doi.org/10.1016/B978-0-12-813314-9.00010-4).
 17. *ParaView*. Available at: http://www.paraview.org/.
 18. Schroeder, W., Martin, K. & Lorensen, B. *The Visualization Toolkit*. (Kitware, Inc, 2006).
+19. Sullivan, B. pyvista/pyvista: v0.33.0 Release Notes. (2022) doi: [10.5281/zenodo.5819305](https://doi.org/10.5281/zenodo.5819305).
