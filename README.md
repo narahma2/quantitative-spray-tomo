@@ -60,7 +60,7 @@ The Python packages used and version information for each are detailed within th
 
 ## Related Works
 1. Rahman, N., Halls, B. R., Kastengren, A. L., Roy, S., Meyer, T. Quantitative polychromatic 4D and monochromatic 2D X-ray tomography of liquid jet breakup dynamics. *To be submitted*.
-2. Rahman, N., Meyer, T. Quantitative polychromatic 4D and monochromatic 2D X-ray tomography of liquid jet breakup dynamics. *Purdue University Research Repository* (2022). doi: [10.4231/G20X-4Z27](https://doi.org/10.4231/G20X-4Z27).
+2. Rahman, N. X-ray radiography datasets for tomographic reconstruction of liquid jet breakup dynamics. *Purdue University Research Repository* (2022). doi: [10.4231/G20X-4Z27](https://doi.org/10.4231/G20X-4Z27).
 
 ## References
 1. van Aarle, W. et al. The ASTRA Toolbox: A platform for advanced algorithm development in electron tomography. *Ultramicroscopy* 157, 35–47 (2015). doi: [10.1016/j.ultramic.2015.05.002](https://doi.org/10.1016/j.ultramic.2015.05.002).
